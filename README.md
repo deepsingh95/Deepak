@@ -1,4 +1,3 @@
-<img align="center" src="https://raw.githubusercontent.com/codingspidey/codingspidey/main/@codingspidey.jpg"/>
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
